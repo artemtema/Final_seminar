@@ -1,0 +1,15 @@
+/Users/kishlakfree/Desktop/Final/Task68/bin/Debug/net7.0/Task68
+/Users/kishlakfree/Desktop/Final/Task68/bin/Debug/net7.0/Task68.deps.json
+/Users/kishlakfree/Desktop/Final/Task68/bin/Debug/net7.0/Task68.runtimeconfig.json
+/Users/kishlakfree/Desktop/Final/Task68/bin/Debug/net7.0/Task68.dll
+/Users/kishlakfree/Desktop/Final/Task68/bin/Debug/net7.0/Task68.pdb
+/Users/kishlakfree/Desktop/Final/Task68/obj/Debug/net7.0/Task68.csproj.AssemblyReference.cache
+/Users/kishlakfree/Desktop/Final/Task68/obj/Debug/net7.0/Task68.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kishlakfree/Desktop/Final/Task68/obj/Debug/net7.0/Task68.AssemblyInfoInputs.cache
+/Users/kishlakfree/Desktop/Final/Task68/obj/Debug/net7.0/Task68.AssemblyInfo.cs
+/Users/kishlakfree/Desktop/Final/Task68/obj/Debug/net7.0/Task68.csproj.CoreCompileInputs.cache
+/Users/kishlakfree/Desktop/Final/Task68/obj/Debug/net7.0/Task68.dll
+/Users/kishlakfree/Desktop/Final/Task68/obj/Debug/net7.0/refint/Task68.dll
+/Users/kishlakfree/Desktop/Final/Task68/obj/Debug/net7.0/Task68.pdb
+/Users/kishlakfree/Desktop/Final/Task68/obj/Debug/net7.0/Task68.genruntimeconfig.cache
+/Users/kishlakfree/Desktop/Final/Task68/obj/Debug/net7.0/ref/Task68.dll
